@@ -3,8 +3,8 @@ This programm helped two numbers calculation
 
 CODE =>>> 
 
-![alt text](<../Screenshot (93).png>)
+![IN HERE](<../Screenshot (93).png>)
 
 RESULT =>>>
 
-![alt text](<../Screenshot (94).png>)
+![IN HERE](<../Screenshot (94).png>)
